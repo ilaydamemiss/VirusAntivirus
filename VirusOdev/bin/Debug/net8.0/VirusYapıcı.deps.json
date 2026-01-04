@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VirusYapıcı/1.0.0": {
+        "runtime": {
+          "VirusYapıcı.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VirusYapıcı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

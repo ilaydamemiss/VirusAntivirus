@@ -1,0 +1,14 @@
+C:\Users\mozge\source\repos\VirusOdev\VirusOdev\bin\Debug\net8.0\VirusYapıcı.exe
+C:\Users\mozge\source\repos\VirusOdev\VirusOdev\bin\Debug\net8.0\VirusYapıcı.deps.json
+C:\Users\mozge\source\repos\VirusOdev\VirusOdev\bin\Debug\net8.0\VirusYapıcı.runtimeconfig.json
+C:\Users\mozge\source\repos\VirusOdev\VirusOdev\bin\Debug\net8.0\VirusYapıcı.dll
+C:\Users\mozge\source\repos\VirusOdev\VirusOdev\bin\Debug\net8.0\VirusYapıcı.pdb
+C:\Users\mozge\source\repos\VirusOdev\VirusOdev\obj\Debug\net8.0\VirusYapıcı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozge\source\repos\VirusOdev\VirusOdev\obj\Debug\net8.0\VirusYapıcı.AssemblyInfoInputs.cache
+C:\Users\mozge\source\repos\VirusOdev\VirusOdev\obj\Debug\net8.0\VirusYapıcı.AssemblyInfo.cs
+C:\Users\mozge\source\repos\VirusOdev\VirusOdev\obj\Debug\net8.0\VirusYapıcı.csproj.CoreCompileInputs.cache
+C:\Users\mozge\source\repos\VirusOdev\VirusOdev\obj\Debug\net8.0\VirusYapıcı.dll
+C:\Users\mozge\source\repos\VirusOdev\VirusOdev\obj\Debug\net8.0\refint\VirusYapıcı.dll
+C:\Users\mozge\source\repos\VirusOdev\VirusOdev\obj\Debug\net8.0\VirusYapıcı.pdb
+C:\Users\mozge\source\repos\VirusOdev\VirusOdev\obj\Debug\net8.0\VirusYapıcı.genruntimeconfig.cache
+C:\Users\mozge\source\repos\VirusOdev\VirusOdev\obj\Debug\net8.0\ref\VirusYapıcı.dll

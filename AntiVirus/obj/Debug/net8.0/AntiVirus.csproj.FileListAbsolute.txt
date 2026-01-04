@@ -1,0 +1,14 @@
+C:\Users\mozge\source\repos\VirusOdev\AntiVirus\bin\Debug\net8.0\AntiVirus.exe
+C:\Users\mozge\source\repos\VirusOdev\AntiVirus\bin\Debug\net8.0\AntiVirus.deps.json
+C:\Users\mozge\source\repos\VirusOdev\AntiVirus\bin\Debug\net8.0\AntiVirus.runtimeconfig.json
+C:\Users\mozge\source\repos\VirusOdev\AntiVirus\bin\Debug\net8.0\AntiVirus.dll
+C:\Users\mozge\source\repos\VirusOdev\AntiVirus\bin\Debug\net8.0\AntiVirus.pdb
+C:\Users\mozge\source\repos\VirusOdev\AntiVirus\obj\Debug\net8.0\AntiVirus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozge\source\repos\VirusOdev\AntiVirus\obj\Debug\net8.0\AntiVirus.AssemblyInfoInputs.cache
+C:\Users\mozge\source\repos\VirusOdev\AntiVirus\obj\Debug\net8.0\AntiVirus.AssemblyInfo.cs
+C:\Users\mozge\source\repos\VirusOdev\AntiVirus\obj\Debug\net8.0\AntiVirus.csproj.CoreCompileInputs.cache
+C:\Users\mozge\source\repos\VirusOdev\AntiVirus\obj\Debug\net8.0\AntiVirus.dll
+C:\Users\mozge\source\repos\VirusOdev\AntiVirus\obj\Debug\net8.0\refint\AntiVirus.dll
+C:\Users\mozge\source\repos\VirusOdev\AntiVirus\obj\Debug\net8.0\AntiVirus.pdb
+C:\Users\mozge\source\repos\VirusOdev\AntiVirus\obj\Debug\net8.0\AntiVirus.genruntimeconfig.cache
+C:\Users\mozge\source\repos\VirusOdev\AntiVirus\obj\Debug\net8.0\ref\AntiVirus.dll
